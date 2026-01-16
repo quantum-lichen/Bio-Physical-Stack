@@ -35,8 +35,6 @@ Modern computing is hitting fundamental limits:
   - [Security: The Ophiocordyceps Model](#3-security-the-ophiocordyceps-model)
 - [Applications](#-concrete-applications)
 - [Research Foundation](#-research-foundation)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
